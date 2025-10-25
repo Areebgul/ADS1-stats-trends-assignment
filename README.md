@@ -6,7 +6,7 @@
 global-temperature-analysis/
 │
 ├── data/
-│   └── global_temperature.csv
+│   └── Global Temperature.csv
 │
 ├── plots/
 │   ├── trend_line.png
