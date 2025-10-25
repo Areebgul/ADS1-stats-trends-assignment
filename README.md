@@ -25,7 +25,7 @@ global-temperature-analysis/
 ---
 
 ## 📘 Introduction
-This project is part of my **Data Science module** for the *Statistics and Trends* assignment.  
+This project is part of my **Data Science module: Applied Data Science 1** for the *Statistics and Trends* assignment.
 The main objective is to explore how **global temperatures** have changed over time and understand the trend of **global warming** using **data analysis and visualization**.
 
 The dataset contains **monthly and yearly temperature anomalies** of the globe.  
@@ -173,7 +173,7 @@ The project demonstrates how data science can uncover real-world patterns, such 
 
 ## 📝 Author
 
-**Your Name**  
+**Muhammad Areeb Gul**  
 📧 mg25aci@herts.ac.uk  
 📦 GitHub: [Areebgul](https://github.com/Areebgul)
 
